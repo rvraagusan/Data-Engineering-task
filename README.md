@@ -62,3 +62,7 @@ CREATE OR REPLACE TABLE FACT_SALES (
 ); 
 
 
+My challenges 
+I get a knowledge about Star and Snowflake schemas and learn about snowflake platform
+Facing difficult in upload flat json file into data warehouse locations
+  
